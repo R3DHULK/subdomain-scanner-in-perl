@@ -14,7 +14,7 @@
 
 <h1><b>Result 👇</b></h1>
 
-![Alt text](subdomain-scan-perl.png)
+![Subdomain Scanner](subdomain-found-perl.png)
 
 #
 
@@ -34,7 +34,7 @@ git clone https://github.com/R3DHULK/subdomain-scanner-in-perl
 cd subdomain-scanner-in-perl
 
 # To Run This Tool
-perl subdomain-scanner.pl <domain name>
+perl subdomain-scanner.pl
 
 ```
 
